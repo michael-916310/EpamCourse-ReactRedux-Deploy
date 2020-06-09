@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/EpamCourse-ReactRedux-Deploy/static/css/main.35900114.chunk.css",
+    "main.js": "/EpamCourse-ReactRedux-Deploy/static/js/main.1f03a216.chunk.js",
+    "main.js.map": "/EpamCourse-ReactRedux-Deploy/static/js/main.1f03a216.chunk.js.map",
+    "runtime-main.js": "/EpamCourse-ReactRedux-Deploy/static/js/runtime-main.1f4d29cd.js",
+    "runtime-main.js.map": "/EpamCourse-ReactRedux-Deploy/static/js/runtime-main.1f4d29cd.js.map",
+    "static/css/2.764ccc25.chunk.css": "/EpamCourse-ReactRedux-Deploy/static/css/2.764ccc25.chunk.css",
+    "static/js/2.afd76613.chunk.js": "/EpamCourse-ReactRedux-Deploy/static/js/2.afd76613.chunk.js",
+    "static/js/2.afd76613.chunk.js.map": "/EpamCourse-ReactRedux-Deploy/static/js/2.afd76613.chunk.js.map",
+    "index.html": "/EpamCourse-ReactRedux-Deploy/index.html",
+    "precache-manifest.39e6e990e13ff2813a9782af76352d2d.js": "/EpamCourse-ReactRedux-Deploy/precache-manifest.39e6e990e13ff2813a9782af76352d2d.js",
+    "service-worker.js": "/EpamCourse-ReactRedux-Deploy/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/EpamCourse-ReactRedux-Deploy/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.35900114.chunk.css.map": "/EpamCourse-ReactRedux-Deploy/static/css/main.35900114.chunk.css.map",
+    "static/js/2.afd76613.chunk.js.LICENSE.txt": "/EpamCourse-ReactRedux-Deploy/static/js/2.afd76613.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f4d29cd.js",
+    "static/css/2.764ccc25.chunk.css",
+    "static/js/2.afd76613.chunk.js",
+    "static/css/main.35900114.chunk.css",
+    "static/js/main.1f03a216.chunk.js"
+  ]
+}
