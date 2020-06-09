@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/EpamCourse-ReactRedux-Deploy/precache-manifest.39e6e990e13ff2813a9782af76352d2d.js"
+  "/EpamCourse-ReactRedux-Deploy/precache-manifest.30d9860987f23bc0a69bb8ef3222a925.js"
 );
 
 self.addEventListener('message', (event) => {

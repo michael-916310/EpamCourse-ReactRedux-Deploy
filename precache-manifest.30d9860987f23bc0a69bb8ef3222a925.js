@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f5188628b6d153aa75f1aaa8d38c2c2",
+    "revision": "d947c2a095f459c53f2cc5790da0f981",
     "url": "/EpamCourse-ReactRedux-Deploy/index.html"
   },
   {
-    "revision": "4e0bda30eb84b4894239",
+    "revision": "5d40351c795463db7dfe",
     "url": "/EpamCourse-ReactRedux-Deploy/static/css/2.764ccc25.chunk.css"
   },
   {
-    "revision": "b853a36752346eed5726",
+    "revision": "0602b1f5542973579335",
     "url": "/EpamCourse-ReactRedux-Deploy/static/css/main.35900114.chunk.css"
   },
   {
-    "revision": "4e0bda30eb84b4894239",
-    "url": "/EpamCourse-ReactRedux-Deploy/static/js/2.afd76613.chunk.js"
+    "revision": "5d40351c795463db7dfe",
+    "url": "/EpamCourse-ReactRedux-Deploy/static/js/2.189cf13d.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/EpamCourse-ReactRedux-Deploy/static/js/2.afd76613.chunk.js.LICENSE.txt"
+    "url": "/EpamCourse-ReactRedux-Deploy/static/js/2.189cf13d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b853a36752346eed5726",
-    "url": "/EpamCourse-ReactRedux-Deploy/static/js/main.1f03a216.chunk.js"
+    "revision": "0602b1f5542973579335",
+    "url": "/EpamCourse-ReactRedux-Deploy/static/js/main.67ee1ad9.chunk.js"
   },
   {
     "revision": "e0b0d22a30b0f041d4cc",
